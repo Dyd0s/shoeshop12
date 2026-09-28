@@ -1,2 +1,3 @@
 # shoeshop12
-5463214
+Магазин обуви 
+Visual studio, Workbench
