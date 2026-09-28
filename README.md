@@ -1,3 +1,3 @@
 # shoeshop12
 Магазин обуви 
-Visual studio, Workbench
+Visual studio, MySQL Workbench
